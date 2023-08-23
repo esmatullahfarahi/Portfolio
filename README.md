@@ -1,6 +1,6 @@
 # Esmatullah Farahi Portfolio
 
-![Screenshot](/images/screenshots/Screenshot-1.png.)
+![Screenshot](/images/screenshots/Screenshot-1.png)
 
 Welcome to the portfolio repository of Esmatullah Farahi, a full-stack web developer. This repository showcases an elegant portfolio website, designed to highlight Esmatullah's extensive experience, projects, and skills in the realm of web development.
 
